@@ -103,21 +103,21 @@ footer p {
 
 .hero-image {
     width: 100%;
-    max-height: 210px;
+    max-height: 230px;
     object-fit: cover;
     margin-bottom: 20px;
 }
 
 .hero-image1 {
     width: 100%;
-    max-height: 230px;
+    max-height: 250px;
     object-fit: cover;
     margin-bottom: 20px;
 }
 
 .hero-image2 {
     width: 100%;
-    max-height: 230px;
+    max-height: 250px;
     object-fit: cover;
     margin-bottom: 20px;
 }
